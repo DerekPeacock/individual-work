@@ -5,4 +5,6 @@
 * Fetch/push
 * Student repositories
 * Permissions
+* Exercises
+* Automated testing
 
